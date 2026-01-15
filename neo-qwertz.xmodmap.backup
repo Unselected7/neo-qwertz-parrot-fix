@@ -1,0 +1,53 @@
+! Neo-QWERTZ Ebene 3 - Vollständige Sonderzeichen
+! Format: Ebene1 Ebene2 (skip) (skip) Ebene3-mit-Caps Ebene3+Shift (skip) (skip)
+
+! Zahlenreihe
+keycode  10 = 1 exclam 1 exclam degree ordfeminine 1 exclam
+keycode  11 = 2 quotedbl 2 quotedbl section masculine 2 quotedbl
+keycode  12 = 3 section 3 section U2113 numerosign 3 section
+keycode  13 = 4 dollar 4 dollar guillemotright NoSymbol 4 dollar
+keycode  14 = 5 percent 5 percent guillemotleft periodcentered 5 percent
+keycode  15 = 6 ampersand 6 ampersand dollar sterling 6 ampersand
+keycode  16 = 7 slash 7 slash EuroSign currency 7 slash
+keycode  17 = 8 parenleft 8 parenleft doublelowquotemark Tab 8 parenleft
+keycode  18 = 9 parenright 9 parenright leftdoublequotemark KP_Divide 9 parenright
+keycode  19 = 0 equal 0 equal rightdoublequotemark KP_Multiply 0 equal
+keycode  20 = ssharp question ssharp question NoSymbol KP_Subtract ssharp question
+
+! Oberste Buchstabenreihe (qwertz)
+keycode  24 = q Q q Q ellipsis periodcentered q Q
+keycode  25 = w W w W underscore Greek_lambda w W
+keycode  26 = e E e E bracketleft Greek_lambda e E
+keycode  27 = r R r R bracketright Greek_pi r R
+keycode  28 = t T t T asciicircum Greek_omega t T
+keycode  29 = z Z z Z exclam Greek_zeta z Z
+keycode  30 = u U u U less leftarrow u U
+keycode  31 = i I i I greater downarrow i I
+keycode  32 = o O o O equal uparrow o O
+keycode  33 = p P p P ampersand Greek_sigma p P
+keycode  34 = udiaeresis Udiaeresis udiaeresis Udiaeresis ssharp U1E9E udiaeresis Udiaeresis
+
+! Mittlere Reihe (asdfg...)
+keycode  38 = a A a A backslash Greek_alpha a A
+keycode  39 = s S s S slash Greek_iota s S
+keycode  40 = d D d D braceleft Greek_epsilon d D
+keycode  41 = f F f F braceright Greek_omicron f F
+keycode  42 = g G g G asterisk Greek_upsilon g G
+keycode  43 = h H h H question Greek_beta h H
+keycode  44 = j J j J parenleft Greek_nu j J
+keycode  45 = k K k K parenright Greek_psi k K
+keycode  46 = l L l L minus Greek_eta l L
+keycode  47 = odiaeresis Odiaeresis odiaeresis Odiaeresis colon Greek_phi odiaeresis Odiaeresis
+keycode  48 = adiaeresis Adiaeresis adiaeresis Adiaeresis at U03D1 adiaeresis Adiaeresis
+
+! Untere Reihe (yxcvb...)
+keycode  52 = y Y y Y numbersign Greek_omicron y Y
+keycode  53 = x X x X dollar Greek_chi x X
+keycode  54 = c C c C bar Greek_kappa c C
+keycode  55 = v V v V asciitilde Greek_gamma v V
+keycode  56 = b B b B grave Greek_tau b B
+keycode  57 = n N n N plus Greek_zeta n N
+keycode  58 = m M m M percent Greek_mu m M
+keycode  59 = comma semicolon comma semicolon quotedbl Greek_delta comma semicolon
+keycode  60 = period colon period colon apostrophe Greek_theta period colon
+keycode  61 = minus underscore minus underscore NoSymbol U03B8 minus underscore
