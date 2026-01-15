@@ -1,6 +1,7 @@
 # NEO QWERTZ Workaround für Parrot OS
 
-Dieses Repo bietet Workaround, um das auf Parrot OS 7 defekte native `neo_qwertz` Keyboard funktional zu machen. Anstatt das fehlerhafte Layout zu reparieren, wird hier ein funktionales Neo-QWERTZ-ähnliches Ebene-3-Layout auf Basis des **Standard-DE-Layouts** neu implementiert. Diese Lösung ist vollständig kompatibel mit dem i3 Window Manager, dessen Anforderungen andere Lösungsansätze verhinderten.Installationsskript
+Dieses Repo bietet Workaround, um das auf Parrot OS 7 defekte native `neo_qwertz` Keyboard funktional zu machen. Anstatt das fehlerhafte Layout zu reparieren, wird hier ein funktionales Neo-QWERTZ-ähnliches Ebene-3-Layout auf Basis des **Standard-DE-Layouts** neu implementiert. Diese Lösung ist vollständig kompatibel mit dem i3 Window Manager, dessen Anforderungen andere Lösungsansätze verhinderten.
+
 **NOTE**: Die Lösung ist auf das X Window System beschränkt. Es funktioniert nicht unter Wayland.
 
 ## Problem
